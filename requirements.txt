@@ -14,10 +14,6 @@ pillow
 opencv-python
 mediapipe
 scikit-learn
-faiss-cpu
-sentence-transformers
-torch
-diffusers
 email-validator
 duckduckgo-search
 
