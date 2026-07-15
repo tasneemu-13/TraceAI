@@ -3,7 +3,6 @@ services:
     name: traceai-platform
     runtime: docker
     plan: free
-    port: 8080
     envVars:
       - key: DATABASE_URL
         fromDatabase:
